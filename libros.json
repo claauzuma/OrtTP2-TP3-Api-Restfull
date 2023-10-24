@@ -1,0 +1,14 @@
+[
+	{
+		"id": "1",
+		"titulo": "Dale",
+		"autor": "Roman Riquelme",
+		"año": 2023
+	},
+	{
+		"id": "2",
+		"titulo": "Prueba 2",
+		"autor": "pepe",
+		"año": 1994
+	}
+]
